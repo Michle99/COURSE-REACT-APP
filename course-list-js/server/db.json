@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 4,
+      "name": "Human Comprehension",
+      "instructor": "Mantine Kil",
+      "venue": "Humanities Lab"
+    },
+    {
+      "id": 5,
+      "name": "astrobiology",
+      "instructor": "Amthine Oilo",
+      "venue": "Space Lab"
+    },
+    {
+      "id": 6,
+      "name": "Humanities",
+      "instructor": "Vera Segala",
+      "venue": "Humanities Room"
+    },
+    {
+      "id": 7,
+      "name": "Dragon Dota",
+      "instructor": "Davion The Dragon Knight",
+      "venue": "Anime World"
+    },
+    {
+      "id": 8,
+      "name": "Nature & Environment",
+      "instructor": "Kelly Ruperr",
+      "venue": "Jurassic Parks"
+    },
+    {
+      "id": 9,
+      "name": "Namibar",
+      "instructor": "Lolili Mans",
+      "venue": "Loule"
+    },
+    {
+      "name": "mbl",
+      "instructor": "jhcJ",
+      "venue": "JG",
+      "id": 10
+    }
+  ]
+}

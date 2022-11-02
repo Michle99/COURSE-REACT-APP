@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Korean",
+      "instructor": "IU",
+      "period": "Mid morning and Afternoon"
+    },
+    {
+      "title": "Social Studies",
+      "instructor": "Mr. Efe",
+      "period": "Morning",
+      "id": 3
+    },
+    {
+      "title": "Earth",
+      "instructor": "Earth",
+      "period": "Morning",
+      "id": 4
+    },
+    {
+      "title": "The Aftermath",
+      "instructor": "Reily Edge",
+      "period": "Mid Afternoon",
+      "id": 5
+    }
+  ]
+}

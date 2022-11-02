@@ -1,0 +1,68 @@
+{
+  "courses": [
+    {
+      "name": "ReactJS",
+      "fee": "1500",
+      "details": "Learn ReactJS"
+    },
+    {
+      "name": "Machine Learning",
+      "fee": "1900",
+      "details": "Learn Machine Learning"
+    },
+    {
+      "name": "Deep Learning",
+      "fee": "1990",
+      "details": "Learn Deap Learning"
+    },
+    {
+      "name": "Spring Boot",
+      "fee": "1300",
+      "details": "Learn Spring Boot"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": 66,
+      "name": "Michael Jackson",
+      "email": "mj@mj.com",
+      "phoneNo": "000000000000",
+      "course": "Pop "
+    },
+    {
+      "id": 86,
+      "name": "Jose Hernandes",
+      "email": "jherna@gmail.com",
+      "phoneNo": "000000000000000",
+      "course": "Caligraphy"
+    },
+    {
+      "id": 73,
+      "name": "Praise Enoha",
+      "email": "p.enoha@gmail.com",
+      "phoneNo": "414-875-9685",
+      "course": "Deep Learning"
+    },
+    {
+      "id": 26,
+      "name": "Marc Kobin",
+      "email": "m.kobin@yahoo.com",
+      "phoneNo": "879-698-8955",
+      "course": "Astrobiology"
+    },
+    {
+      "id": 48,
+      "name": "James Madin",
+      "email": "j.madin@yahoo.com",
+      "phoneNo": "415-969-9852",
+      "course": "Spring DevOps"
+    },
+    {
+      "id": 64,
+      "name": "Jeke",
+      "email": "jek@gmai.com",
+      "phoneNo": "888888888888888",
+      "course": "Kellnvp"
+    }
+  ]
+}
